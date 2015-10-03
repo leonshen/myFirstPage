@@ -1,2 +1,2 @@
 link to wavepin 
-[wavepin](www.wavepin.com)
+[wavepin](http://www.wavepin.com)
